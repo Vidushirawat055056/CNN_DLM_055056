@@ -133,7 +133,7 @@ pip install -r requirements.txt
 
 3. Open the Jupyter Notebook:
 
-jupyter notebook DLM_CNN_055007_Final_.ipynb
+jupyter notebook DLM_CNN_055056.ipynb
 
 4. Run the cells sequentially.
 5. Evaluate accuracy, loss, and predictions.
